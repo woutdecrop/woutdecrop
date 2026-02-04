@@ -59,7 +59,7 @@ I enjoy keeping up with new ML methods — even the weird ones**
 > Check Commits below, GitHub stats are sometimes inaccurate due to caching.
 
 ## GitHub Streaks 🔥
-![Streaks]([https://nirzak-streak-stats.vercel.app/?user=VishwaGauravIn&theme=jolly&date_format=j%20M%5B%20Y%5D](https://nirzak-streak-stats.vercel.app/?user=woutdecrop&theme=jolly&date_format=j%20M%5B%20Y%5D))
+![Streaks]([https://nirzak-streak-stats.vercel.app/?user=woutdecrop&theme=jolly&date_format=j%20M%5B%20Y%5D](https://nirzak-streak-stats.vercel.app/?user=woutdecrop&theme=jolly&date_format=j%20M%5B%20Y%5D))
 
 
 ### Thanks for Visiting my GitHub Profile!
