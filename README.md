@@ -1,9 +1,17 @@
+<p align="left">
+<img src="https://github.com/woutdecrop/woutdecrop/blob/output/github-contribution-grid-snake-dark.svg">
+</p>
+
 ### <a href="https://emoji.gg/emoji/3958-computer"><img src="https://cdn3.emoji.gg/emojis/3958-computer.gif" width="64px" height="64px" alt="computer"></a> welcome to Wout's github...
 ⤹｡⋆ ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ ☽˚｡˚ 
 <br />
 
+
+
 I’m **Wout Decrop**, studied Bio-Science Engineering at **Ghent University** and **Aarhus University**.  
 I currently work as a **Researcher at the Flanders Marine Institute (VLIZ)**, where I focus on applying **AI and machine learning to marine conservation**.
+
+
 
 
 - 🔭 I'm currently working on **Acoustic vessel detection to protect Marine Protected Areas (MPAs)
@@ -55,11 +63,6 @@ I enjoy keeping up with new ML methods — even the weird ones**
 
 
 ### Thanks for Visiting my GitHub Profile!
-
----
-<p align="center">
-<img src="https://github.com/woutdecrop/woutdecrop/blob/output/github-contribution-grid-snake-dark.svg">
-</p>
 
 [![](https://visitcountpro.netlify.app/api?id=woutdecrop&pretty=true)](https://visitcount.itsvg.in)
 
