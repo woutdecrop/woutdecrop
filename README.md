@@ -141,8 +141,6 @@ I enjoy keeping up with new ML methods — even the weird ones**
 ![Streaks]([https://nirzak-streak-stats.vercel.app/?user=woutdecrop&theme=jolly&date_format=j%20M%5B%20Y%5D](https://nirzak-streak-stats.vercel.app/?user=woutdecrop&theme=jolly&date_format=j%20M%5B%20Y%5D))
 
 
-### Thanks for Visiting my GitHub Profile!
-[![](https://visitcountpro.netlify.app/api?id=woutdecrop&pretty=true)](https://visitcount.itsvg.in)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/woutdecrop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="woutdecrop" height="30" width="40" /></a>
