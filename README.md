@@ -23,7 +23,7 @@
 </div>
 
 
-I’m **Wout Decrop**, studied Bio-Science Engineering at **Ghent University** and **Aarhus University**.  
+I’m **Wout Decrop**, I studied Bio-Science Engineering at **Ghent University** and **Aarhus University**.  
 I currently work as a **Researcher at the Flanders Marine Institute (VLIZ)**, where I focus on applying **AI and machine learning to marine conservation**.
 
 
@@ -130,12 +130,6 @@ I enjoy keeping up with new ML methods — even the weird ones**
 </a>
 
 
-
-
-## Current GitHub Stats 📊
-![Stats](https://github-readme-stats.vercel.app/api?username=woutdecrop&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woutdecrop&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact)
-> Check Commits below, GitHub stats are sometimes inaccurate due to caching.
 
 ## GitHub Streaks 🔥
 ![Streaks](https://nirzak-streak-stats.vercel.app/?user=woutdecrop&theme=jolly&date_format=j%20M%5B%20Y%5D)
