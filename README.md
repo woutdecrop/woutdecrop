@@ -54,7 +54,7 @@ Combining a bioscience engineering background with machine learning**
 I work as a researcher at VLIZ 
 I enjoy keeping up with new ML methods — even the weird ones**
 
-- 👨‍💻 All of my projects are available at **[https://woutdecrop.will_develop_this](https://woutdecrop.will_develop_this)**
+- 👨‍💻 All of my projects are available at **[https://portfolio-woutdecrop.vercel.app/](https://portfolio-woutdecrop.vercel.app/)**
 
 
 <h3 align="left">Languages & Tools</h3>
